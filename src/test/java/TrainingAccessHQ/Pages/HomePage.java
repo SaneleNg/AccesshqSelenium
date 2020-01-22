@@ -43,11 +43,9 @@ public class HomePage {
                 {
                     System.out.println("Contact Menu item is  Not displayed");
                 }
-
             }else
             {
                 System.out.println("Contact Menu bar is Not displayed");
-
             }
 
         }catch (InterruptedException e){

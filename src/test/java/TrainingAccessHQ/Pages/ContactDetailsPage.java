@@ -21,7 +21,6 @@ public class ContactDetailsPage extends HomePage{
     private static final String get_emailError_id = "email-err";
     private static final String get_messageError_id = "message-err";
 
-
     public void VerifFornameErrorMessage()
     {
 
